@@ -1,7 +1,7 @@
 # CSCB58 Summer 2023 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Haris Malik, 1008241564, malikh37, haris.malik@mail.utoronto.ca #
+# Student: Haris Malik
 # Bitmap Display Configuration:
 # - Unit width in pixels: 4 (update this as needed)
 # - Unit height in pixels: 4 (update this as needed)
